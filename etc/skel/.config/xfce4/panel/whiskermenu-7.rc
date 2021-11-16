@@ -1,7 +1,7 @@
 favorites=firefox.desktop,Alacritty.desktop,org.gnome.Nautilus.desktop,vim.desktop,xfce-settings-manager.desktop
-recent=Alacritty.desktop,org.kde.dolphin.desktop,xfce-wm-settings.desktop,xfce-keyboard-settings.desktop,xfce-settings-manager.desktop,xfce-backdrop-settings.desktop,org.gnome.Nautilus.desktop,visual-studio-code.desktop,xfce-ui-settings.desktop,firefox.desktop,xfce4-settings-editor.desktop,org.kde.konsole.desktop,xfce4-terminal-emulator.desktop
+recent=xfce-session-settings.desktop,Alacritty.desktop,org.kde.dolphin.desktop,xfce-wm-settings.desktop,xfce-keyboard-settings.desktop,xfce-settings-manager.desktop,xfce-backdrop-settings.desktop,org.gnome.Nautilus.desktop,visual-studio-code.desktop,xfce-ui-settings.desktop,firefox.desktop,xfce4-settings-editor.desktop,org.kde.konsole.desktop
 button-title=CalinixOS\ \ 
-button-icon=start-here-arcolinux
+button-icon=distributor-logo-archlinux
 button-single-row=false
 show-button-title=true
 show-button-icon=true

@@ -1,13 +1,13 @@
 delay=1
 region=1
-action=1
+action=2
 show_mouse=0
-title=ArcoLinux
+title=Calinix
 timestamp=TRUE
 app=gwenview
 last_user=
 last_extension=png
-screenshot_dir=file:/home/arghya/Pictures
+screenshot_dir=file:/$HOME/Pictures
 enable_imgur_upload=true
 show_border=1
 
